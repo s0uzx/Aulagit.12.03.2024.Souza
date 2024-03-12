@@ -1,8 +1,8 @@
-// ler o número A
+// ler o número c
 let c = 14;
-// ler o numero B
+// ler o numero d
 let d = 7;
-// somar A por B
+// somar c por d
 let conclusão = c - d;
 // exibir resultados
 console.log(conclusão);
