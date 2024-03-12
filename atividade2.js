@@ -3,8 +3,8 @@ let a = 14;
 // ler o numero B
 let b = 7;
 // somar A por B
-let resultado = a + b;
+let conclusão = a + b;
 // exibir resultados
-console.log(resultado);
+console.log(conclusão);
 
 
