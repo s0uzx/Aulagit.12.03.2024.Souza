@@ -1,7 +1,7 @@
 // ler o número A
-let a = 14;
+let c = 14;
 // ler o numero B
-let b = 7;
+let d = 7;
 // somar A por B
 let conclusão = a - b;
 // exibir resultados
