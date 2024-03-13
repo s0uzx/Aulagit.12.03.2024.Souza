@@ -1,5 +1,5 @@
 // ler o número c
-let c = 21;
+let c = 30;
 // ler o numero d
 let d = 3;
 // subtrair c por d
