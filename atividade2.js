@@ -1,5 +1,5 @@
 // ler o número c
-let c = 700;
+let x = 700;
 // ler o numero d
 let d = 425;
 // somar c e d
